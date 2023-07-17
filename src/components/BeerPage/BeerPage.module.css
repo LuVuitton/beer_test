@@ -1,0 +1,25 @@
+.titleImg {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.lists {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.list {
+  flex: 1;
+min-width: 300px;
+max-width: 350px;
+}
+
+
+.methods {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
